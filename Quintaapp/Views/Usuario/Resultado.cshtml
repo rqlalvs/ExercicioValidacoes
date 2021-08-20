@@ -1,0 +1,53 @@
+﻿@model Quintaapp.Models.Usuario
+@{
+    ViewBag.Title = "Resultado";
+}
+
+<h2>Listar Usuários</h2>
+<fieldset>
+    <legend>Usuário Cadastrado</legend>
+    <div class="editor-label">
+        <b>@Html.DisplayNameFor(m => m.Nome)</b>
+    </div>
+    <div class="editor-field">
+        @Html.DisplayFor(m => m.Nome)
+    </div>
+    <div class="editor-label">
+        <b>@Html.DisplayNameFor(m => m.Obs)</b>
+    </div>
+    <div class="editor-field">
+        @Html.DisplayFor(m => m.Obs)
+    </div>
+    <div class="editor-label">
+        <b>@Html.DisplayNameFor(m => m.Nasc)</b>
+    </div>
+    <div class="editor-field">
+        @Html.DisplayFor(m => m.Nasc)
+    </div>
+    <div class="editor-label">
+        <b>@Html.DisplayNameFor(m => m.Email)</b>
+    </div>
+    <div class="editor-field">
+        @Html.DisplayFor(m => m.Email)
+    </div>
+    <div class="editor-label">
+        <b>@Html.DisplayNameFor(m => m.Login)</b>
+    </div>
+    <div class="editor-field">
+        @Html.DisplayFor(m => m.Login)
+    </div>
+    <div class="editor-label">
+        <b>@Html.DisplayNameFor(m => m.Senha)</b>
+    </div>
+    <div class="editor-field">
+        @Html.DisplayFor(m => m.Senha)
+    </div>
+    <div class="editor-label">
+        <b>@Html.DisplayNameFor(m => m.ConfirmarSenha)</b>
+    </div>
+    <div class="editor-field">
+        @Html.DisplayFor(m => m.ConfirmarSenha)
+    </div>
+    <br />
+    <p>@Html.ActionLink("Voltar", "Index")</p>
+</fieldset>

@@ -1,0 +1,240 @@
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Quintaapp.dll.config
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Quintaapp.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Quintaapp.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\csc.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\csc.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\csc.rsp
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\csi.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\csi.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\csi.rsp
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.AppContext.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Collections.Immutable.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Console.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.IO.Compression.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.IO.FileSystem.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.IO.Pipes.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Reflection.Metadata.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Security.AccessControl.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Security.Claims.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Security.Principal.Windows.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.ValueTuple.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XPath.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\vbc.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\vbc.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\vbc.rsp
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\VBCSCompiler.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\roslyn\VBCSCompiler.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Antlr3.Runtime.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Microsoft.Web.Infrastructure.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Newtonsoft.Json.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Helpers.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Mvc.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Optimization.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Razor.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.WebPages.Deployment.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.WebPages.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.WebPages.Razor.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\WebGrease.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Helpers.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Mvc.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Optimization.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.Razor.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.WebPages.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.WebPages.Deployment.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Web.WebPages.Razor.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Newtonsoft.Json.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Antlr3.Runtime.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csproj.CopyComplete
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\obj\Debug\Quintaapp.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Ivan e Natalya\DS\Quintaapp\Quintaapp\obj\Debug\Quintaapp.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Quintaapp.dll.config
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Quintaapp.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Quintaapp.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csc.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csc.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csc.rsp
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csi.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csi.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csi.rsp
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.AppContext.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Collections.Immutable.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Console.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.Compression.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.FileSystem.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.Pipes.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Reflection.Metadata.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.AccessControl.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Claims.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Principal.Windows.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.ValueTuple.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XPath.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\vbc.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\vbc.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\vbc.rsp
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\VBCSCompiler.exe
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\VBCSCompiler.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Antlr3.Runtime.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.Web.Infrastructure.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Newtonsoft.Json.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Helpers.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Mvc.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Optimization.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Razor.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Deployment.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Razor.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\WebGrease.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Helpers.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Mvc.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Optimization.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Razor.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Deployment.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Razor.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Newtonsoft.Json.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Antlr3.Runtime.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csproj.CopyComplete
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.dll
+T:\Usuarios\INFORMATICA\3A ETIM\Milena e Victor Hugo\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.pdb
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Quintaapp.dll.config
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Quintaapp.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Quintaapp.pdb
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csc.exe
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csc.exe.config
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csc.rsp
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csi.exe
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csi.exe.config
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\csi.rsp
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.AppContext.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Console.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.Compression.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Claims.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.ValueTuple.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\vbc.exe
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\vbc.exe.config
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\vbc.rsp
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\VBCSCompiler.exe
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Antlr3.Runtime.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Newtonsoft.Json.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Helpers.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Mvc.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Optimization.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Razor.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\WebGrease.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Helpers.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Mvc.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Optimization.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.Razor.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Newtonsoft.Json.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Antlr3.Runtime.pdb
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csproj.AssemblyReference.cache
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csproj.CoreCompileInputs.cache
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.csproj.CopyComplete
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.dll
+C:\Users\raquel.silva\Desktop\DS_Exercicios\DS_Exercicios\Quintaapp\Quintaapp\obj\Debug\Quintaapp.pdb

@@ -1,0 +1,76 @@
+﻿@model Quintaapp.Models.Usuario
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Validação de Usuário</h2>
+@using (Html.BeginForm())
+{
+	@Html.ValidationSummary(true)
+<fieldset>
+	<legend> Dados do Usuário </legend>
+	<div class="editor-label">
+		<b>@Html.LabelFor(m => m.Nome)</b>
+	</div>
+	<div class="editor-field">
+		@Html.EditorFor(m => m.Nome)
+		@Html.ValidationMessageFor(m => m.Nome)
+	</div>
+	<br />
+	<div class="editor-label">
+		<b>@Html.LabelFor(m => m.Obs)</b>
+	</div>
+	<div class="editor-field">
+		@Html.TextAreaFor(m => m.Obs)
+		@Html.ValidationMessageFor(m => m.Obs)
+	</div>
+	<br />
+	<div class="editor-label">
+		<b>@Html.LabelFor(m => m.Nasc)</b>
+	</div>
+	<div class="editor-field">
+		@Html.EditorFor(m => m.Nasc)
+		@Html.ValidationMessageFor(m => m.Nasc)
+	</div>
+
+	<br />
+	<div class="editor-label">
+		<b>@Html.LabelFor(m => m.Email)</b>
+	</div>
+	<div class="editor-field">
+		@Html.EditorFor(m => m.Email)
+		@Html.ValidationMessageFor(m => m.Email)
+	</div>
+
+	<br />
+	<div class="editor-label">
+		<b>@Html.LabelFor(m => m.Login)</b>
+	</div>
+	<div class="editor-field">
+		@Html.EditorFor(m => m.Login)
+		@Html.ValidationMessageFor(m => m.Login)
+	</div>
+
+	<br />
+	<div class="editor-label">
+		<b>@Html.LabelFor(m => m.Senha)</b>
+	</div>
+	<div class="editor-field">
+		@Html.PasswordFor(m => m.Senha)
+		@Html.ValidationMessageFor(m => m.Senha)
+	</div>
+
+	<br />
+	<div class="editor-label">
+		<b>@Html.LabelFor(m => m.ConfirmarSenha)</b>
+	</div>
+	<div class="editor-field">
+		@Html.PasswordFor(m => m.ConfirmarSenha)
+		@Html.ValidationMessageFor(m => m.ConfirmarSenha)
+	</div>
+	<br />
+	<p><input type="submit" value="Cadastrar"/></p>
+</fieldset>
+	@section Scripts { @Scripts.Render("~/bundles/jqueryval")}
+}
+
